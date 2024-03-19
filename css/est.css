@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+}
+
+#centro{
+
+    background-color: #232626;
+    width: 30%;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 2%;
+}
+
+#centro button{
+    width: 80%;
+    height: 60px;
+    background-color: rgb(61, 60, 60);
+    border: none;
+    border-radius: 5%;
+    color: #ffff;
+    margin-bottom: 5%;
+    margin-left: 10% ;
+    
+
+}
+
+
+#centro button:hover{
+ background-color:rgb(170, 86, 86);
+ cursor: pointer; 
+}
+
+img{
+    margin-left: 38%;
+    border-radius: 50%;
+    margin-top: 5%;
+    width:25%;
+    height: 25%;
+}
+
+
+p{
+    margin-left: 35%;
+    font-size: 2px;
+}
+
+
+
+
+
+.txh{
+    color:#ffff;
+    font-size: 25px;
+    font-family: Helvetica ;
+    margin-left: 30%;
+   
+
+}
+.txf{
+    color:#ffff;
+    font-family: Helvetica ;
+    font-size: 15px;
+    margin-left: 25%;
+    
+}
+.greem{
+color:rgb(196, 249, 62);
+font-size: 15px;
+font-family: Helvetica ;
+margin-left: 30%;
+padding-bottom: 5%;
+
+}
+
+.txmeio{
+font-family: Helvetica ;
+font-size: 95%;
+
+}
+
+
+
